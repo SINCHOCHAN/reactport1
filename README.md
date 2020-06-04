@@ -8,11 +8,11 @@ SIN CHO CHAN : React Portfolio
 
 This is the link to the github repo:
  
-https://github.com/SINCHOCHAN/ReactPortfolio 
+https://github.com/SINCHOCHAN/reactport1
 
 This is the link to the live website:
 
-https://sinchochan.github.io/ReactPortfolio/ 
+https://sinchochan.github.io/reactport1/
 
 This is the link to deploy to Heruko
 https://frozen-taiga-04252.herokuapp.com/
