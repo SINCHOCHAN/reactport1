@@ -14,6 +14,9 @@ This is the link to the live website:
 
 https://sinchochan.github.io/ReactPortfolio/ 
 
+This is the link to deploy to Heruko
+https://frozen-taiga-04252.herokuapp.com/
+
 ### Description
 
 - There are 3 links to 3 different websites which is A contact me, portfolio and an About me page.
